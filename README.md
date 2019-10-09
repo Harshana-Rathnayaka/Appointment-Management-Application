@@ -2,7 +2,6 @@
 
 This is the second part of an Integrated Project which handles and manages Appointments sent through a web application.
 
-Link to the Web Application - 
 Both these applications are connected to each other via Amozon Web Services online database service. 
 
 The user sends an appointment request through the web application which will be stored in the cloud database and this Windows application
