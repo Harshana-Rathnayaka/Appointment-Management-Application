@@ -8,4 +8,4 @@ Both these applications are connected to each other via Amozon Web Services onli
 The user sends an appointment request through the web application which will be stored in the cloud database and this Windows application
 will retrieve those requests from the cloud and the user of this application will be able to either confirm or reject the appointment.
 And mark an accepted appointment as completed if it is completed. Also the application will keep track of all the accepted, rejected 
-ass well as completed appointments.
+and completed appointments.
